@@ -11,16 +11,16 @@ echo -e " "
 read -p "SUBDOMAIN :  " domen
 echo -e ""
 #DOMAIN=mypremium.biz.id
-DOMAIN=zvx.my.id
+DOMAIN=kingvpn.my.id
 sub=${domen}
-dns=${sub}.zvx.my.id
+dns=${sub}.kingvpn.my.id
 #(</dev/urandom tr -dc a-z0-9 | head -c5)
 #dns=${sub}.mypremium.biz.id
 #CF_ID=andyyuda41@gmail.com
 #CF_KEY=0d626234700bad388d6d07b49c42901445d1c
 dns=${sub}.zvx.my.id
-CF_KEY=e03f30d53ad7ec2ab54327baa5e2da5ab44f0
-CF_ID=mezzqueen293@gmail.com
+CF_KEY=e3341a6705e970eda3577f440d0cca6e3d682
+CF_ID=hannaugo@gmail.com
 set -euo pipefail
 IP=$(wget -qO- icanhazip.com);
 echo "Updating DNS for ${dns}..."
