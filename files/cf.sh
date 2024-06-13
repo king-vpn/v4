@@ -18,7 +18,6 @@ dns=${sub}.kingvpn.my.id
 #dns=${sub}.mypremium.biz.id
 #CF_ID=andyyuda41@gmail.com
 #CF_KEY=0d626234700bad388d6d07b49c42901445d1c
-dns=${sub}.zvx.my.id
 CF_KEY=e3341a6705e970eda3577f440d0cca6e3d682
 CF_ID=hannaugo@gmail.com
 set -euo pipefail
